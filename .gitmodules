@@ -1,4 +1,4 @@
-	path = TodoApi
-	url = https://github.com/hindaBracha/ToDoServer.git
-	path = ToDoListReact-master
-	url = https://github.com/hindaBracha/YouCanToDo.git
+[submodule "ToDoListReact-master/todos"]
+   path = ToDoListReact-master/todos
+   url = https://github.com/hindaBracha/ToDoServer.git
+
